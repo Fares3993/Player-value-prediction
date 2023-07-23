@@ -3,14 +3,15 @@
 ## Models Used
 
 ### Milestone 1
+
 <ul>
-  <il>Linear Regression</il>
-  <il>Polynomial Regression</il>
+  <li>Linear Regression</li>
+  <li>Polynomial Regression</li>
 </ul>
 
-## ### Milestone 2
+### Milestone 2
 <ul>
-  <il>DecisionTree</il>
-  <il>Svm</il>
-  <il>LogisticRegression</il>
+  <li>DecisionTree</li>
+  <li>Svm</li>
+  <li>LogisticRegression</li>
 </ul>
