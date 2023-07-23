@@ -18,3 +18,9 @@ Milestone 1 Report: https://github.com/Fares3993/Player-value-prediction/blob/ma
   <li>LogisticRegression</li>
 </ul>
 Milestone 2 Report: https://github.com/Fares3993/Player-value-prediction/blob/master/milestone%202%20Report.docx
+
+### created by a team of 4 students: 
+* Fares Ahmed
+* Abdelaziz Gamal
+* Abdelrahman Amro
+* Yousef Sameh Roshdi
